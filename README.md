@@ -1,6 +1,6 @@
 # Proyecto NLP: Análisis de Quejas CFPB
 
-**Autor:** William Moncada  
+**Autor:** Alejandro Moncada - Noel Perez - Julian Mendez 
 **Asignatura:** Procesamiento de Lenguaje Natural  
 **Dataset:** `muestra_nlp_limpia.csv` (Consumer Financial Protection Bureau)
 

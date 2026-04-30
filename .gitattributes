@@ -1,0 +1,2 @@
+# Track large dataset files with Git LFS
+data/processed/muestra_nlp_procesada.parquet filter=lfs diff=lfs merge=lfs -text
